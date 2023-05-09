@@ -1,6 +1,6 @@
 # Word square
 
-A [word square](https://en.wikipedia.org/wiki/Word_square) is a puzzle that involves arranging words in a grid so that they're the same horizontally and vertically. Finding a perfect 10-word square in English has been an open problem for over a century. This repository provides a solution to this problem using a novel algorithm that significantly reduces the search space. For more information about the algorithm and the solution, see the publication and code in the repository.
+A [word square](https://en.wikipedia.org/wiki/Word_square) is a puzzle that involves arranging words in a grid so that they're the same horizontally and vertically. Finding a perfect 10-word square in English has been an open problem for over a century. This repository provides a solution to this problem using a novel algorithm that significantly reduces the search space. For more information about the algorithm and the solution, see the [publication](https://github.com/matevz-kovacic/word-square/blob/main/word-square.pdf) and [code](https://github.com/matevz-kovacic/word-square/blob/main/App.java) in the repository.
 
 
 # Perfect 10-square 
