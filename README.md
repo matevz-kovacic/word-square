@@ -43,4 +43,4 @@ A [word square](https://en.wikipedia.org/wiki/Word_square) is a puzzle that invo
 4. Horn, N., Fernández, A., Dodd, H.M., Gasson, M.J., Rodríguez, J.M. (2004). Nisin-controlled production of pediocin PA-1 and colicin V in nisin- and non-nisin-producing *Lactococcus lactis* strains. *Applied and Environmental Microbiology*, 70(8), 5030-5032. doi: [10.1128/AEM.70.8.5030-5032.2004](https://doi.org/10.1128/AEM.70.8.5030-5032.2004).
 5. Ahmed, I. Y., & Schmulbach, C. D. (1969). Conductance of some haloborate and boronium salts in acetonitrile at 25.deg. *Inorganic Chemistry*, 8(7), 1411-1413. doi:[10.1021/ic50077a008](https://doi.org/10.1021/ic50077a008)
 6. Merriam-Webster. (2023). Retirement. Retrieved May 6, 2023, from [https://www.merriam-webster.com/dictionary/retirement](https://www.merriam-webster.com/dictionary/retirement)
-7. Wiktionary. (2022). *earnestest*. Retrieved May 6, 2023, from [https://en.wiktionary.org/wiki/earnestest](https://en.wiktionary.org/wiki/earnestest).
+7. Wiktionary. (2022). *earnestest*. Retrieved May 6, 2023, from [https://en.wiktionary.org/wiki/earnestest](https://en.wiktionary.org/wiki/earnestest)
