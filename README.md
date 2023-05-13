@@ -22,15 +22,15 @@ A [word square](https://en.wikipedia.org/wiki/Word_square) is a puzzle that invo
 
 | Word         | Description & reference                                                                                                                    |
 | ------------ | ---------------------------------------------------------------------------------------------------------------------------------------- |
-| scapharcae   | *adj.* epithet of bacterium *Ornithinibacillus scapharcae* \[[1](#ref1)\]                                                                 |
-| cerrateana   | *adj.* epithet of a plant *Pitcairnia cerrateana* \[[2](#ref2)\]                                                                          |
+| scapharcae   | *adj.* specific epithet of bacterium name *Ornithinibacillus scapharcae* \[[1](#ref1)\]                                                                 |
+| cerrateana   | *adj.* specific epithet of a plant name *Pitcairnia cerrateana* \[[2](#ref2)\]                                                                          |
 | argoletier   | *noun (obsolete, military)* a light mounted soldier; a mounted bowman \[[3](#ref3)\]                                                      |
 | procolicin   | *noun* a propeptide form of colicin \[[4](#ref4)\]                                                                                      |
 | haloborate   | *noun* a type of inorganic compound \[[5](#ref5)\]                                                                                      |
-| atelomeres   | *adj.* epithet of a species of moths *Ectropis atelomeres* \[[2](#ref2)\]                                                                  |
+| atelomeres   | *adj.* specific epithet of moth name *Ectropis atelomeres* \[[2](#ref2)\]                                                                  |
 | retirement   | *noun* withdrawal from one's position or occupation or from active working life \[[6](#ref6)\]                                           |
-| caicarense   | *adj.* epithet of a plant *Machaerium caicarense*  \[[2](#ref2)\]                                                                         |
-| aneitensis   | *adj.* epithet of a tree fern *Alsophila aneitensis* \[[2](#ref2)\]                                                                        |
+| caicarense   | *adj.* specific epithet of plant name *Machaerium caicarense*  \[[2](#ref2)\]                                                                         |
+| aneitensis   | *adj.* specific epithet of tree fern name *Alsophila aneitensis* \[[2](#ref2)\]                                                                        |
 | earnestest   | *adj. (now rare)* superlative form of earnest \[[7](#ref7)\]                                                                           |
 
 <br />
